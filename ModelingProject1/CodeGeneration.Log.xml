@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Codegenerierungs-/Texttransformationsprotokoll">
+  <MessageClass Name="Message" Label="Meldung" Option="Informationsmeldungen anzeigen" />
+  <MessageClass Name="Warning" Label="Warnung" Option="Warnungen anzeigen" />
+  <MessageClass Name="Error" Label="Fehler" Option="Fehler anzeigen" />
+  <MessageClass Name="Property" Label="Eigenschaft" Option="Metadaten anzeigen" />
+  <MessageClass Name="Diagnostic" Label="Meldung" Option="Diagnosemeldungen anzeigen" />
+  <Message Timestamp="2016-12-22T19:45:59" Importance="High" Text="Die Codegenerierung oder Texttransformation wurde gestartet." />
+  <Error Timestamp="2016-12-22T19:45:59" Importance="High" Text="Es wurden keine zu verarbeitenden Vorlagen gefunden." />
+  <Message Timestamp="2016-12-22T19:45:59" Importance="Diagnostic" Text="Die Auswahl enthielt 1 Elemente, die an keine Vorlage gebunden sind." />
+  <Warning Timestamp="2016-12-22T19:45:59" Importance="Medium" Text="'ModelingProject1::Class1' -  (Class): keine gebundene Vorlage." />
+  <Message Timestamp="2016-12-22T19:45:59" Importance="High" Text="Die Codegenerierung ist abgeschlossen. Fehler: 1. Warnungen: 1." />
+</Log>
